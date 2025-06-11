@@ -5338,7 +5338,7 @@
 				)
 			)
 		)
-		(property "Footprint" "T-Pau:SW_Apem_SS-25136-NH"
+		(property "Footprint" "T-Pau:SS2513"
 			(at 46.99 104.14 0)
 			(effects
 				(font
@@ -6275,7 +6275,7 @@
 				)
 			)
 		)
-		(property "Footprint" "T-Pau:SW_Apem_SS-25136-NH"
+		(property "Footprint" "T-Pau:SS2513"
 			(at 106.68 58.42 0)
 			(effects
 				(font
